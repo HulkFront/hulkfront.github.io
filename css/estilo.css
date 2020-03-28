@@ -12,10 +12,10 @@
 		.pesquisa{
 			text-align: right;
 		}
-		.conteudo{
+		.img-template{
 			text-align: center;
 			font-family: verdana;
-			font-size: 16px;
+			font-size: 20px;
 			padding: 20px;
 		}
 		.rodape{
@@ -29,4 +29,15 @@
 			text-align: center;
 			font-family: verdana;
 			font-size: 18px;
+		}
+
+		h4{
+			width: 100%;
+			padding: 8px;
+			border-radius: 20px;
+			border-color: rgba(0, 0, 0 , 0);
+			background-color: #3366CC;
+			text-align: center 60px 60px;
+			font-family: verdana;
+			font-size: 14px;
 		}
